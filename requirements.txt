@@ -1,0 +1,10 @@
+langchain
+openai
+faiss-cpu
+chromadb
+sentence-transformers
+tiktoken
+streamlit
+gradio
+numpy
+pandas
