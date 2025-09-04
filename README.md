@@ -33,7 +33,7 @@ Frontend (optional): Streamlit / Gradio
 
 ⚡ Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/ai-rag-chatbot.git
+git clone https://github.com/aachcoder47/rag-chatbot.git
 cd ai-rag-chatbot
 
 2. Install dependencies
